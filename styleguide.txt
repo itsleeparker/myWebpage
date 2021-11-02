@@ -1,0 +1,15 @@
+The goal is to represnt the oceanic theme to the user as it expresses the
+vast imagination 
+
+Primary Colors:
+--dark-blue (#22577A)
+--medium-blue(#38A3A5)
+
+NEUTRAL COLORS
+    --lime-blue(#57CC99)
+    --light-lime(#80ED99)
+
+FONTS 
+--acme('Acme', sans-serif)
+--Kalam('Kalam', cursive)
+
